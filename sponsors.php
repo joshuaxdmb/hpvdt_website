@@ -395,7 +395,8 @@
                      </ul>
             </div>
             <div class="row">
-                <p>Copyright &copy; 2021 University of Toronto Human Powered Vehicles Design Team. Designed by Stefanny Perez</p>
+                <p>Copyright &copy; 2021 University of Toronto Human Powered Vehicles Design Team<br>
+                Designed by Stefanny Perez</p>
             </div> 
         </footer>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
